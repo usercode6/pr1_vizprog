@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appVideoPlayerQml.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appVideoPlayerQml.dir/objects.a @CMakeFiles\appVideoPlayerQml.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appVideoPlayerQml.dir/objects.a -Wl,--no-whole-archive -o appVideoPlayerQml.exe -Wl,--out-implib,libappVideoPlayerQml.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appVideoPlayerQml.dir\linkLibs.rsp

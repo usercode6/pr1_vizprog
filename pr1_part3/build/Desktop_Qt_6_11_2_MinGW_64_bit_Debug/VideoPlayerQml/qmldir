@@ -1,0 +1,7 @@
+module VideoPlayerQml
+typeinfo appVideoPlayerQml.qmltypes
+prefer :/qt/qml/VideoPlayerQml/
+Main 1.0 Main.qml
+PlayerButton 1.0 PlayerButton.qml
+depends QtQuick
+

@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "C:/Users/User/Desktop/vizprog/pr1_part1/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/pr1_part1_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/User/Desktop/vizprog/pr1_part1/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/User/Desktop/vizprog/pr1_part1/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/User/Desktop/vizprog/pr1_part1",
+	"CMAKE_SOURCE_DIR" : "C:/Users/User/Desktop/vizprog/pr1_part1",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/User/Desktop/vizprog/pr1_part1/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/pr1_part1_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/User/Desktop/vizprog/pr1_part1/images/repeat.png",
+		"C:/Users/User/Desktop/vizprog/pr1_part1/images/list.png",
+		"C:/Users/User/Desktop/vizprog/pr1_part1/images/rastyanut.png",
+		"C:/Users/User/Desktop/vizprog/pr1_part1/images/ecvalaizer.png",
+		"C:/Users/User/Desktop/vizprog/pr1_part1/images/conus.png",
+		"C:/Users/User/Desktop/vizprog/pr1_part1/images/Photoroom.png",
+		"C:/Users/User/Desktop/vizprog/pr1_part1/images/pngtree.png",
+		"C:/Users/User/Desktop/vizprog/pr1_part1/images/shuffle.png"
+	],
+	"LOCK_FILE" : "C:/Users/User/Desktop/vizprog/pr1_part1/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/CMakeFiles/pr1_part1_autogen.dir/AutoRcc_resourses_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resourses" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resourses.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.11.2/msvc2022_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/User/Desktop/vizprog/pr1_part1/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/CMakeFiles/pr1_part1_autogen.dir/AutoRcc_resourses_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/User/Desktop/vizprog/pr1_part1/resourses.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

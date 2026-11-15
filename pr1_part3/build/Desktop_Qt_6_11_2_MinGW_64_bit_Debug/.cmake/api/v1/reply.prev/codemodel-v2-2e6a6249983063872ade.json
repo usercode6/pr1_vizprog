@@ -1,0 +1,222 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VideoPlayerQml",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-33b07085d9e7993111be.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-f7718bf881c59399b1ce.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-7cbfa0d7b60351cd8aef.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-71d1181bd0cc897dbaa7.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1496c151a5769ad6987d.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml-Debug-ffd382d2c0f3d3236bf0.json",
+					"name" : "appVideoPlayerQml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml_autogen-Debug-d60261286d2b55a3530d.json",
+					"name" : "appVideoPlayerQml_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml_autogen_timestamp_deps-Debug-c7459538361a4b2cbd54.json",
+					"name" : "appVideoPlayerQml_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml_copy_qml-Debug-1329ab84ade289dd95b0.json",
+					"name" : "appVideoPlayerQml_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml_copy_res-Debug-636be7267e0858d7c5cd.json",
+					"name" : "appVideoPlayerQml_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml_qmlimportscan-Debug-3234e9f92391ff62daa1.json",
+					"name" : "appVideoPlayerQml_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml_qmllint-Debug-b6e0bd9c0c5f09bc53f3.json",
+					"name" : "appVideoPlayerQml_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml_qmllint_json-Debug-a134d3045455852dbb25.json",
+					"name" : "appVideoPlayerQml_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml_qmllint_module-Debug-f1851fcabb2a65d2d678.json",
+					"name" : "appVideoPlayerQml_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVideoPlayerQml_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVideoPlayerQml_qmltyperegistration-Debug-11769cb030c670124024.json",
+					"name" : "appVideoPlayerQml_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-f3bde4ca4d0dc3824bd6.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-da454bce62960d7de272.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-37cab2a9829ee01fa7b9.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appVideoPlayerQml_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appVideoPlayerQml_aotstats_target-Debug-8fbb82479c07bb4b022f.json",
+					"name" : "module_appVideoPlayerQml_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/pr1_vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+		"source" : "C:/pr1_vizprog/pr1_part3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/User/Desktop/vizprog/pr1_part3
+-cmake-output
+-output-file
+C:/Users/User/Desktop/vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/.qt/qml_imports/appVideoPlayerQml_build.cmake
+-importPath
+C:/Users/User/Desktop/vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug
+-importPath
+C:/Users/User/Desktop/vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/VideoPlayerQml
+-importPath
+C:/Qt/6.11.2/msvc2022_64/qml
+-qrcFiles
+C:/Users/User/Desktop/vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/.qt/rcc/qmake_VideoPlayerQml.qrc
+C:/Users/User/Desktop/vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/.qt/rcc/appVideoPlayerQml_raw_qml_0.qrc
+C:/Users/User/Desktop/vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MSVC2022_64bit_Debug/.qt/rcc/appVideoPlayerQml_raw_res_0.qrc

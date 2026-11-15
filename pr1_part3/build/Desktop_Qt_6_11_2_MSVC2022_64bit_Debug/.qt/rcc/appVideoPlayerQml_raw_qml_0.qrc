@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/VideoPlayerQml/">
+    <file alias="Main.qml">C:/Users/User/Desktop/vizprog/pr1_part3/Main.qml</file>
+    <file alias="PlayerButton.qml">C:/Users/User/Desktop/vizprog/pr1_part3/PlayerButton.qml</file>
+  </qresource>
+</RCC>
+

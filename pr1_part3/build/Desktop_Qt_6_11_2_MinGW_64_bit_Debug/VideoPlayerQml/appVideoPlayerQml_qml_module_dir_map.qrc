@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/VideoPlayerQml">C:/pr1_vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/VideoPlayerQml</file>
+
+  </qresource>
+</RCC>

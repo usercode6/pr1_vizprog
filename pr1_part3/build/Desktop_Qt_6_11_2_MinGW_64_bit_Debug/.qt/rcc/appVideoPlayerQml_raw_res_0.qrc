@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/VideoPlayerQml/">
+    <file alias="images/conus.png">C:/pr1_vizprog/pr1_part3/images/conus.png</file>
+    <file alias="images/rastyanut.png">C:/pr1_vizprog/pr1_part3/images/rastyanut.png</file>
+    <file alias="images/ecvalaizer.png">C:/pr1_vizprog/pr1_part3/images/ecvalaizer.png</file>
+    <file alias="images/list.png">C:/pr1_vizprog/pr1_part3/images/list.png</file>
+    <file alias="images/repeat.png">C:/pr1_vizprog/pr1_part3/images/repeat.png</file>
+    <file alias="images/shuffle.png">C:/pr1_vizprog/pr1_part3/images/shuffle.png</file>
+    <file alias="images/Photoroom.png">C:/pr1_vizprog/pr1_part3/images/Photoroom.png</file>
+    <file alias="video/video.mp4">C:/pr1_vizprog/pr1_part3/video/video.mp4</file>
+  </qresource>
+</RCC>
+

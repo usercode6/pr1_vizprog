@@ -1,0 +1,6 @@
+module pr1_part3
+typeinfo apppr1_part3.qmltypes
+prefer :/qt/qml/pr1_part3/
+Main 254.0 Main.qml
+depends QtQuick
+

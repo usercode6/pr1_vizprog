@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Photoroom.png</file>
+        <file>images/conus.png</file>
+        <file>images/rastyanut.png</file>
+        <file>images/ecvalaizer.png</file>
+        <file>images/list.png</file>
+        <file>images/repeat.png</file>
+        <file>images/shuffle.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+-rootPath
+C:/pr1_vizprog/pr1_part3
+-cmake-output
+-output-file
+C:/pr1_vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/.qt/qml_imports/appVideoPlayerQml_conf.cmake
+-importPath
+C:/pr1_vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug
+-importPath
+C:/pr1_vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/VideoPlayerQml
+-importPath
+C:/Qt/6.11.2/mingw_64/qml
+-qrcFiles
+C:/pr1_vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/.qt/rcc/qmake_VideoPlayerQml.qrc
+C:/pr1_vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/.qt/rcc/appVideoPlayerQml_raw_qml_0.qrc
+C:/pr1_vizprog/pr1_part3/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/.qt/rcc/appVideoPlayerQml_raw_res_0.qrc
